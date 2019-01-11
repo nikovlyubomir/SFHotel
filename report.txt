@@ -1,0 +1,12 @@
+
+<--REPORT FOR SF HOTEL-->>
+<------------------------------------------->
+Active bookings.
+<------------------------------------------->
+All existing bookings:
+Booking of room: Room number: 101, Single, Ordinary. Price:50, for user: clinet from: 1/1/2019, until: 2/1/2019
+<------------------------------------------->
+All users:
+User: admin, group:administrator
+User: clinet, group:guest
+User: mgr, group:front desk

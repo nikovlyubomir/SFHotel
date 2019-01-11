@@ -1,0 +1,10 @@
+RC;Single;50
+RT;Ordinary;Breakfast
+RC;Double;80
+RT;Ordinary;Breakfast
+RC;Single;75
+RT;Delux;WiFi,Cleaning,Towel change,Breakfast
+RC;Double;100
+RT;Delux;WiFi,Cleaning,Towel change,Breakfast
+RC;Apartment;200
+RT;VIP;WiFi,Cleaning,Towel Change,Breakfast,Room Service,Massage,King size bed
